@@ -1,4 +1,4 @@
-import "/src/index.css";   // absolute path so Vite can't miss it
+import "/src/index.css"; // <— absolute path so Vite can’t miss it
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
